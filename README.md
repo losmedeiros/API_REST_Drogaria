@@ -1,4 +1,5 @@
-Uma API simples para uma drogaria, focada apenas em produtos e categorias, pode ser projetada para lidar com operações básicas de consulta e manipulação dessas informações. Aqui está uma visão geral de como essa API poderia ser estruturada:
+Uma API simples para uma drogaria, focada apenas em produtos e categorias, pode ser projetada para lidar com operações básicas de consulta e manipulação dessas informações. 
+Aqui está uma visão geral de como essa API poderia ser estruturada:
 
 Recursos Disponíveis:
 
